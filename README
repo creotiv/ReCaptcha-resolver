@@ -1,0 +1,5 @@
+For test use run:
+
+python test_preprocess.py captchas out
+
+and then open out/index.html to see result
